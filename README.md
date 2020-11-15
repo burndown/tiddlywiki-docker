@@ -23,7 +23,7 @@ In this example, the folder `$(pwd)/.tiddlywiki` is used for the data.
 
 Default auth is `user` / `wiki`
 
-Simply provide the USERNAME and PASSWORD env variables to customise.
+Simply provide the USERNAME and PASSWORD env variables to customise for your own images.
 
 # Other settings
 
